@@ -1,5 +1,7 @@
 ### Olá Mundo!👋
-🔭 Estou atualmente trabalhando no meu TCC do Curso de Desenvolvimento de Sistemas 
+🔭 Estou atualmente trabalhando no meu TCC do Curso de Desenvolvimento de Sistemas. Me aventuro atualmente tanto no front end como no back end, sendo que meu forte é mesmo o front end. 
+Aqui você vai encontrar diversos trabalhos de escola e algumas colaborações que faço por aqui com os outros usuários. 
+Enfim, seja bem vindo e have a nice code! 
 ### Estou Aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 ### Ferramentas e Tecnologias
