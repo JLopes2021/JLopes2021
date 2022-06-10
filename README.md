@@ -23,7 +23,7 @@ Enfim, seja bem vindo e have a nice code!
 💬 Sou formado em Educação Física, e Automação Industrial. Atualmente, curso Desenvolvimento de Sistemas na Etec Albert Einstein e faço alguns cursos na Alura. Sempre meus alunos me dizem que tenho mais cara de Informática do que de Professor de Educação Física.
 
           
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JLopes2021/JLopes2021/blob/output/github-contribution-grid-snake.svg)
 
           
 ### Contatos:
