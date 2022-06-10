@@ -1,7 +1,5 @@
-<center>
-### Olá Mundo!👋
-</center>
 
+<h1 align="center">Olá Mundo!👋</h1>
 🔭 Estou atualmente trabalhando no meu TCC do Curso de Desenvolvimento de Sistemas. Me aventuro atualmente tanto no front end como no back end, sendo que meu forte é mesmo o front end. 
 Aqui você vai encontrar diversos trabalhos de escola e algumas colaborações que faço por aqui com os outros usuários. 
 Enfim, seja bem vindo e have a nice code! 
