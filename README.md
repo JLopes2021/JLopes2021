@@ -11,9 +11,9 @@ Enfim, seja bem vindo e have a nice code!
 ### My GitHub Stats
 
 <div>
-<a href="https://github.com/JLopes2021">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?JLopes2021&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?JLopes2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+| <a href="https://github.com/JLopes2021/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JLopes2021&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jeff´s github stats" /></a> | <a href="https://github.com/JLopes2021/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLopes2021&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 </div>
 
           
