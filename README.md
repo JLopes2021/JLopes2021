@@ -18,7 +18,7 @@
 
           
 ### Curiosidades
-💬 Sou formado em Educação Física, e Automação Industrial. Atualmente, curso Desenvolvimento de Sistemas na Etec Albert Einstein e faço alguns cursos na Alura. Sempre meus alunos me dizem que tenho mais cara de Informática do que de Professor de Educação Física.
+💬 Sou formado em Educação Física, e Automação Industrial, recém  formado em Desenvolvimento de Sistemas na Etec Albert Einstein e faço alguns cursos na Alura. Sempre meus alunos me dizem que tenho mais cara de Informática do que de Professor de Educação Física.
 
           
 
