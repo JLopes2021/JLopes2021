@@ -1,6 +1,8 @@
 
 <h1 align="center">Olá Mundo!👋</h1>
 🔭 Sou Dev recém formado em Desenvolvimento de Sistemas na ETEC Albert Einstein
+<img width="300px" align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcyAtUNrU9jEh4EIIRTKBVkAfEKUDJrRznXCSQ_zSnaOcKWiAj6tGDmrtajzuKs9AkQzH0r0FiQ6S2_VFEOdPnqmcC8XHCEuXGrn2e5rN5Hrt_Zj0Vl_AsDvdZ1F4OXnc9xWMvzd0LyeCiXqUO-gNoxz_XSFkjvBZwnCSxJ2KaG66sZXrcWcsibvyIbg/s320/Design%20sem%20nome.png">
+
 
 ### Estou Aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
