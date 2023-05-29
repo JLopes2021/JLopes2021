@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on **Releitura TCC**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -21,7 +20,8 @@
         
 
           
-### Contatos:
+### <h3 align="left">Connect with me:</h3>
+:
 
 <div>
 
