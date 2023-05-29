@@ -1,9 +1,7 @@
 
 <img width="250px" align="rigth" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJQAyDru9uGNFQXtHis9fyeDDwvq3FZqzeVANJuD0yvevQKDRVdNwcbmIQKqNcTRfDSsqMW-aJi18CoJZ54KzmwgSfCKZEC1Scr_TTDwLpjcpNzUBQhUwoWrYt_StSUoGiNQi8zANUEsWUYSBXtCpOaLm70bWXAuJ_CxM9FmqLHq0G6SJHrxJSVTKqCQ/s320/Design%20sem%20nome%20(2).png">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jlopes2021" alt="jlopes2021" /></a> </p>
 
-- 🔭 I’m currently working on **Releitura TCC**
 <h1 align="center">Hi 👋, I'm Jeff Lopes</h1>
 <h3 align="center">I'm a brazilian Developer Front End</h3>
 
