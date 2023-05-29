@@ -1,10 +1,8 @@
 
-<img width="250px" align="rigth" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJQAyDru9uGNFQXtHis9fyeDDwvq3FZqzeVANJuD0yvevQKDRVdNwcbmIQKqNcTRfDSsqMW-aJi18CoJZ54KzmwgSfCKZEC1Scr_TTDwLpjcpNzUBQhUwoWrYt_StSUoGiNQi8zANUEsWUYSBXtCpOaLm70bWXAuJ_CxM9FmqLHq0G6SJHrxJSVTKqCQ/s320/Design%20sem%20nome%20(2).png">
-
-
 <h1 align="center">Hi 👋, I'm Jeff Lopes</h1>
 <h3 align="center">I'm a brazilian Developer Front End</h3>
 
+<p>
 - 🔭 I’m currently working on **Releitura TCC**
 
 - 🌱 I’m currently learning **React Js**
@@ -12,6 +10,10 @@
 - 💬 Ask me about **HTML, CSS, REACT JS**
 
 - 📫 How to reach me **jeffinho.je@gmail.com**
+
+        <img width="250px" align="rigth" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJQAyDru9uGNFQXtHis9fyeDDwvq3FZqzeVANJuD0yvevQKDRVdNwcbmIQKqNcTRfDSsqMW-aJi18CoJZ54KzmwgSfCKZEC1Scr_TTDwLpjcpNzUBQhUwoWrYt_StSUoGiNQi8zANUEsWUYSBXtCpOaLm70bWXAuJ_CxM9FmqLHq0G6SJHrxJSVTKqCQ/s320/Design%20sem%20nome%20(2).png">
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,8 +28,6 @@
 
           
 ### <h3 align="left">Connect with me:</h3>
-:
-
 <div>
 
 <a href="https://instagram.com/_jeff.colodedeus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href = "mailto:jeffinho.je8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/jefferson-lopes-b87605191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
