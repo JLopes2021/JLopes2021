@@ -12,9 +12,6 @@
 - 📫 How to reach me **jeffinho.je@gmail.com**
 </p>
 
-    <img width="250px" align="rigth" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJQAyDru9uGNFQXtHis9fyeDDwvq3FZqzeVANJuD0yvevQKDRVdNwcbmIQKqNcTRfDSsqMW-aJi18CoJZ54KzmwgSfCKZEC1Scr_TTDwLpjcpNzUBQhUwoWrYt_StSUoGiNQi8zANUEsWUYSBXtCpOaLm70bWXAuJ_CxM9FmqLHq0G6SJHrxJSVTKqCQ/s320/Design%20sem%20nome%20(2).png">
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
