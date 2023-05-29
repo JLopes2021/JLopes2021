@@ -1,6 +1,4 @@
 
-<h1 align="center">Olá Mundo!👋</h1>
-🔭 Sou Dev formado em Desenvolvimento de Sistemas na ETEC Albert Einstein
 <img width="250px" align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJQAyDru9uGNFQXtHis9fyeDDwvq3FZqzeVANJuD0yvevQKDRVdNwcbmIQKqNcTRfDSsqMW-aJi18CoJZ54KzmwgSfCKZEC1Scr_TTDwLpjcpNzUBQhUwoWrYt_StSUoGiNQi8zANUEsWUYSBXtCpOaLm70bWXAuJ_CxM9FmqLHq0G6SJHrxJSVTKqCQ/s320/Design%20sem%20nome%20(2).png">
 
 <h1 align="center">Hi 👋, I'm Jeff Lopes</h1>
