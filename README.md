@@ -3,7 +3,7 @@
 <h3 align="center">I'm a brazilian Developer Front End</h3>
 
 <p>
-- 🔭 I’m currently working on **Releitura TCC**
+- 🔭 I’m currently working on **Releitura TCC** and **Portfolio-Jeff**
 
 - 🌱 I’m currently learning **React Js**
 
