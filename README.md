@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jeff Lopes</h1>
 <h3 align="center">I'm a brazilian Developer Front End</h3>
-<h1 align="center">Hi 👋, I'm Jeff Lopes</h1>
-<h3 align="center">I'm a brazilian Developer Front End</h3>
 
 - 🔭 I’m currently working on **Releitura TCC**
 
