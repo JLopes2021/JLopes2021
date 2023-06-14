@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Jeff Lopes</h1>
-<h3 align="center">I'm a brazilian Developer Front End</h3>
+<h3 align="center">I'm a brazilian Full Stack Developer </h3>
 
-- 🔭 I’m currently working on **Releitura TCC**
+- 🔭 I’m currently working on **Portal de noticias**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently working on **React Js**
 
 - 💬 Ask me about **HTML, CSS, REACT JS**
 
