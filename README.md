@@ -48,5 +48,7 @@
 <div 
   ##
   <div align="center">
-[![Jeff Lopes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=JLopes2021&show_icons=true&count_private=true&hide=stars&theme=radical&title_color=ff0000&icon_color=00ff00&text_color=0000ff&bg_color=000000)](https://github.com/JLopes2021?tab=repositories)
+  
+[![Jeff Lopes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=JLopes2021&show_icons=true&count_private=true&hide=stars&theme=radical&title_color=ff0000&icon_color=00ff00&text_color=0000ff&bg_color=000000)](https://github.com/JLopes2021?tab=repositories){: style="background-color: black; border-radius: 5px; padding: 10px;"}
+
 </div>
