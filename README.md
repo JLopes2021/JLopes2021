@@ -46,7 +46,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />
 </div>
 <div 
-  ##
+  <hr>
   <div align="center">
   
 [![Jeff Lopes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=JLopes2021&show_icons=true&count_private=true&hide=stars&theme=radical&title_color=ff0000&icon_color=00ff00&text_color=0000ff&bg_color=000000)](https://github.com/JLopes2021?tab=repositories)
