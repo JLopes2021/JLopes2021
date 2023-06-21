@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jeff Lopes</h1>
 <h3 align="center">I'm a brazilian Full Stack Developer </h3>
 
-- 🔭 I’m currently working on **Portal de noticias**
+- 🔭 I’m currently working on **Portal de noticias & IONIC Projects**
 
-- 🌱 I’m currently working on **React Js**
+- 🌱 I’m currently working on **React Js** and **IONIC**
 
 - 💬 Ask me about **HTML, CSS, REACT JS**
 
