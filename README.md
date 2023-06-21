@@ -6,9 +6,7 @@
 - 💬 Ask me about **HTML, CSS, React Js**
 - 📫 How to reach me: **jeffinho.je@gmail.com**
 
-## Connect with me:
-<p align="left">
-</p>
+
 
 ## My Skill Set
 
