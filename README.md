@@ -54,5 +54,5 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/2Qn4Z2E.gif" alt="Animated Panel">
+  <img src="https://i.pinimg.com/originals/e8/77/26/e87726a5a65739a4d475ff3a0663186d.gif" alt="Animated Panel">
 </div>
