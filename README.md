@@ -1,9 +1,7 @@
 # Hi 👋, I'm Jeff Lopes
 ## Brazilian Full Stack Developer
 
-- 🔭 I’m currently working on **Portal de noticias & IONIC Projects**
-- 🌱 I’m currently working with **React Js** and **Ionic**
-- 💬 Ask me about **HTML, CSS, React Js**
+- 🌱 I’m currently working with **React Js**, **Ionic** and **PHP**
 - 📫 How to reach me: **jeffinho.je@gmail.com**
 
 
